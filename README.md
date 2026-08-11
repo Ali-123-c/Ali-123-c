@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-lilac-psi-22.vercel.app">
+  <a href="https://portfoliopage-tan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ali-haider-2172823a7/">
@@ -176,8 +176,8 @@ A central repository of six completed Flutter internship projects — from login
 ---
 # 💼 Experience
 
-### Flutter Developer Intern — TEYZIX
-*2026*
+### Mobile App Development Intern — TEYZIX CORE
+*11 Jun – 10 Jul 2026*
 
 Built the **Smart Expense Tracker** (MAD-1 task) — a full-featured finance app with email / Google / biometric authentication, expense & income tracking, budget planning with usage alerts, analytics dashboards, PDF report export, multi-currency support, dark mode, and offline-first storage with Firestore sync.
 
@@ -187,8 +187,8 @@ Built the **Smart Expense Tracker** (MAD-1 task) — a full-featured finance app
 
 **Skills:** Flutter · Dart · Firebase · Hive · Provider
 
-### Mobile App Development Intern — Flutter Program
-*2026*
+### Flutter Development Intern — DevelopersHub Corporation
+*1 Mar – 12 Apr 2026 · 6-Week Program*
 
 Delivered six internship projects in a single evolving codebase — from form validation and state management to REST API integration, Firebase Auth & Firestore, and FCM-powered task management with foreground and background notification support.
 
@@ -310,7 +310,7 @@ open_to:     [ Internships, Junior Flutter & Full-Stack Roles, Open Source, Free
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ali--123--c-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-123-c)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lilac-psi-22.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliopage-tan.vercel.app)
 
 [![Instagram](https://img.shields.io/badge/Instagram-alihaider5970-6366F1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alahaider5970)
 
